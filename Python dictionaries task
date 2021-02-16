@@ -1,0 +1,7 @@
+Synonyms = {"mountain":"peak","forest":"" jungle"}
+Print(" 1.",synonyms[" mountain"]
+Synonyms[" terrain"] = "land"
+Print("2.",synonyms)
+Synonyms.Pop("forest")
+Print"3.",synonyms)
+
